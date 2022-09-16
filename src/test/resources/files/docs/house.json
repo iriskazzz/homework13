@@ -1,0 +1,20 @@
+[
+  {
+    "houseNumber": 1,
+    "square": 88,
+    "city": "Moscow",
+    "price": 7800
+  },
+  {
+    "houseNumber": 2,
+    "square": 124,
+    "city": "Kirov",
+    "price": 5430
+  },
+  {
+    "houseNumber": 3,
+    "square": 156,
+    "city": "Samara",
+    "price": 6500
+  }
+]
